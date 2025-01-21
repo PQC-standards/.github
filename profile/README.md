@@ -1,14 +1,14 @@
 # PQC-Standards
 
-Bienvenido a **PQC-Standards**, una organización creada por Gabriel Vacaro y Ignacio Warleta, alumnos de Ingenieria del Software en la ETSII de la Universidad de Sevilla, como parte de nuestro Trabajo de Fin de Grado (TFG) titulado: **"Sobre el nuevo estándar de encapsulado de clave (KEM) post-cuántico"**. En este espacio, nos enfocamos en compartir implementaciones de problemas fundamentales relacionados con criptografía post–cuántica y específicamente aquellos basados en retículos.
+Bienvenido a **PQC-Standards**, una organización creada por [Gabriel Vacaro](https://github.com/Gabrielvcg) e [Ignacio Warleta](https://github.com/ignaciowarleta), alumnos de Ingenieria del Software en la ETSII de la Universidad de Sevilla, como parte de nuestro Trabajo de Fin de Grado (TFG) titulado: **«Sobre el nuevo estándar de encapsulado de clave (KEM) post-cuántico»**. En este espacio, nos enfocamos en compartir implementaciones de problemas fundamentales relacionados con criptografía post–cuántica y específicamente aquellos basados en retículos.
 
 ---
 
 ## Objetivo
 
-Nuestro objetivo es proporcionar implementaciones y recursos educativos sobre problemas matemáticos esenciales para la criptografía poscuántica, como:
+Nuestro objetivo es proporcionar implementaciones y recursos educativos sobre problemas matemáticos esenciales para la criptografía post–cuántica, como:
 
-- **Introducción a Retículos** 
+- **Retículos** 
 - **CVP** (Closest Vector Problem)
 - **SVP** (Shortest Vector Problem)
 - **LWE** (Learning With Errors)
@@ -25,7 +25,7 @@ En este repositorio encontrarás:
 
 — **Implementaciones introductorias de retículos**: Utilizando LattPy para aprender desde cero qué son los retículos y su importancia.
 - **Implementaciones de problemas matemáticos**: Código fuente para resolver CVP, SVP, LWE, MLWE y RLWE.
-- **Recursos educativos**: Materiales para aprender sobre la base teórica y práctica de los esquemas criptográficos poscuánticos.
+- **Recursos educativos**: Materiales para aprender sobre la base teórica y práctica de los esquemas criptográficos post–cuánticos.
 
 ---
 
@@ -55,7 +55,10 @@ Forma parte de nuestra comunidad y contribuye al avance del conocimiento en crip
 
 ## Contacto
 
-¿Tienes preguntas o ideas? Contáctanos en [contacto@pqc-standards.org](mailto:contacto@pqc-standards.org).
+¿Tienes preguntas o ideas? Contáctanos en [standardspqc@gmail.com](mailto:standardspqc@gmail.com). <br>
+
+[Gabriel Vacaro Goytia](https://github.com/Gabrielvcg) (gabvacgoy@alum.us.es)  
+[Ignacio Warleta Murcia](https://github.com/ignaciowarleta) (ignwarmur@alum.us.es)
 
 ---
 
