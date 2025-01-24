@@ -49,7 +49,7 @@ En **PQC-Standards**, valoramos la exactitud y la claridad. Todas las implementa
 
 Forma parte de nuestra comunidad y contribuye al avance del conocimiento en criptografía post–cuántica. Estamos activos en:
 
-- [Foro de Discusión](https://github.com/PQC-Standards/discussions)
+- [Foro de Discusión](https://github.com/PQC-Standards/.github/discussions)
 
 ---
 
