@@ -34,7 +34,7 @@ En este repositorio encontrarás:
 Estamos abiertos a colaboraciones de otros estudiantes, investigadores y entusiastas de la criptografía. Aquí te mostramos cómo puedes unirte a nosotros:
 
 1. **Revisa nuestros lineamientos**: Consulta el archivo [CONTRIBUTING.md](CONTRIBUTING.md) para conocer cómo contribuir.
-2. **Propuestas y discusiones**: Participa en nuestras discusiones abriendo un [issue](https://github.com/PQC-Standards/issues).
+2. **Propuestas y discusiones**: Participa en nuestras discusiones abriendo un [issue](https://github.com/PQC-Standards/.github/issues).
 3. **Contribuye con código**: Haz un fork de nuestros repositorios, trabaja en tus ideas y envía un pull request.
 
 ---
