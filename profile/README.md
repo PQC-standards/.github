@@ -6,14 +6,16 @@ Bienvenido a **PQC-Standards**, una organización creada por [Gabriel Vacaro](ht
 
 ## Objetivo
 
-Nuestro objetivo es proporcionar implementaciones y recursos educativos sobre problemas matemáticos esenciales para la criptografía post–cuántica, como:
+Nuestro objetivo es proporcionar implementaciones y recursos educativos sobre algoritmos y problemas matemáticos esenciales para la criptografía post–cuántica como:
 
-- **Retículos** 
+- **Retículos y anillos**
 - **CVP** (Closest Vector Problem)
 - **SVP** (Shortest Vector Problem)
 - **LWE** (Learning With Errors)
 - **MLWE** (Module Learning With Errors)
 - **RLWE** (Ring Learning With Errors)
+- **Algoritmos relacionados con PKE**
+- **Algoritmos relacionados con KEM**
 
 A través de estas contribuciones, buscamos facilitar el entendimiento y la adopción de tecnologías criptográficas post–cuánticas.
 
