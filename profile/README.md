@@ -29,6 +29,7 @@ En este repositorio encontrarás:
 - **Implementaciones de problemas matemáticos**: Código fuente para resolver CVP, SVP, LWE, MLWE y RLWE.
 - **Implementaciones para medir la complejidad de los problemas matemáticos**
 - **Implementaciones de algoritmos relacionados con Kyber–KEM**: Los algoritmos PKE y KEM.
+- **Implementaciones de simulaciones de ataque**
 - **Recursos educativos**: Materiales para aprender sobre la base teórica y práctica de los esquemas criptográficos post–cuánticos.
 
 ---
