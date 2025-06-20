@@ -5,11 +5,11 @@ Bienvenido a **PQC-Standards**, una organización creada por [Gabriel Vacaro](ht
 ---
 ## Índice
 
-- Fundamentos Teóricos (Anexos 2 y 3)
-- Problemas relacionados (Anexos 4 y 5)
-- Algoritmos Kyber-KEM (Anexos 6 y 7)
-- Criptoanálisis (Anexos 8)
-- Complejidad problemas relacionados (Anexo 9)
+- [Fundamentos Teóricos (Anexos 2 y 3)](https://github.com/PQC-standards/Fundamentos-Teoricos)
+- [Problemas relacionados (Anexos 4 y 5)](https://github.com/PQC-standards/Problemas-Relacionados)
+- [Algoritmos Kyber-KEM (Anexos 6 y 7)](https://github.com/PQC-standards/Algoritmos-Kyber-KEM)
+- [Criptoanálisis (Anexo 8)](https://github.com/PQC-standards/Criptoanalisis)
+- [Complejidad problemas relacionados (Anexo 9)](https://github.com/PQC-standards/Complejidad-Problemas-Relacionados)
 
 
 
