@@ -1,6 +1,6 @@
 # PQC-Standards
 
-Bienvenido a **PQC-Standards**, una organización creada por [Gabriel Vacaro](https://github.com/Gabrielvcg) e [Ignacio Warleta](https://github.com/ignaciowarleta), alumnos de Ingenieria del Software en la ETSII de la Universidad de Sevilla, como parte de nuestro Trabajo de Fin de Grado (TFG) titulado: **«Sobre el nuevo estándar de encapsulado de clave (KEM) postcuántico»**. En este espacio, nos enfocamos en compartir implementaciones de problemas fundamentales relacionados con criptografía postcuántica y específicamente aquellos basados en retículos.
+Bienvenido a **PQC-Standards**, una organización creada por [Gabriel Vacaro](https://github.com/Gabrielvcg) e [Ignacio Warleta](https://github.com/ignaciowarleta), alumnos de Ingenieria del Software en la ETSII de la Universidad de Sevilla, como parte de nuestro Trabajo de Fin de Grado (TFG) titulado: [**«Sobre el nuevo estándar de encapsulado de clave (KEM) postcuántico»**](https://github.com/PQC-standards/.github/blob/ef07309df63a0f0fedf9577477491c68c670b8bb/Sobre%20el%20nuevo%20esta%CC%81ndar%20de%20encapsulado%20de%20clave%20(KEM)%20postcua%CC%81ntico.pdf). En este espacio, nos enfocamos en compartir implementaciones de problemas fundamentales relacionados con criptografía postcuántica y específicamente aquellos basados en retículos.
 
 ---
 ## Índice
